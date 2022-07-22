@@ -14,6 +14,7 @@ namespace Hazel {
 	};
 
 
+
 	// To be defined in CLIENT(应该定义在客户端）
 	Application* CreateApplication();
 }
