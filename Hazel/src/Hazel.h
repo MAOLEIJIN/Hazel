@@ -7,7 +7,9 @@
 
 #include "Hazel/Application.h"
 #include "Hazel/Log.h"
+#include "hzpch.h"
 
 // ---Entry Point -------------------------
 #include "Hazel/EntryPoint.h"
 // ----------------------------------------
+ 

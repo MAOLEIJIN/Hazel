@@ -1,7 +1,7 @@
 #pragma once
 
 
-#include "Hazel/Events/Event.h"
+#include "Event.h"
 
 
 
