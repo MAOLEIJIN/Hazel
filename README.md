@@ -1,4 +1,4 @@
 # Hazel
-Hazel Engine from #TheCherno for study
+Hazel Engine from #TheCherno just for study
 
-Now used the spdlog and pre-make
+Using the spdlog \ pre-make \ GLFW
