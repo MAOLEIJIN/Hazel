@@ -7,6 +7,7 @@
 
 #include "Hazel/Application.h"
 #include "Hazel/Log.h"
+#include "Hazel/Layer.h"
 #include "hzpch.h"
 
 // ---Entry Point -------------------------
