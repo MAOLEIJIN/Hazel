@@ -10,6 +10,8 @@
 #include "Hazel/Layer.h"
 #include "hzpch.h"
 
+#include "Hazel/ImGui/ImGuiLayer.h"
+
 // ---Entry Point -------------------------
 #include "Hazel/EntryPoint.h"
 // ----------------------------------------
